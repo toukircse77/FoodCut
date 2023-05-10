@@ -89,3 +89,4 @@ function toggleAcc() {
     this.classList.toggle("accordion__item--active");
   }
 } 
+
